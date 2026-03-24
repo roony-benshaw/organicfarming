@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090054486249",
+    "project_id": "organicfarm-f07f4",
+    "storage_bucket": "organicfarm-f07f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090054486249:android:0469222e293eab6da11878",
+        "android_client_info": {
+          "package_name": "com.example.organic_farming_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090054486249-k5js1833h5r37pelp2qqdaq0459rp4pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.organic_farming_app",
+            "certificate_hash": "89958fda0aec706fb9e9025c7f45e2ce586fd582"
+          }
+        },
+        {
+          "client_id": "1090054486249-h6nbi3qgbl36rvg8d5p96k1e5cgjfvck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA5xbdpWA0cdwY1JP448SWhozscpePj8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090054486249-h6nbi3qgbl36rvg8d5p96k1e5cgjfvck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

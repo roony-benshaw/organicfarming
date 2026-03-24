@@ -1,0 +1,25 @@
+
+name: organic_farming_app
+description: A simple Organic Farming Guide App built with Flutter.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.3
+  google_sign_in: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
